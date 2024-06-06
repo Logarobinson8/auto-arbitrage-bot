@@ -24,3 +24,4 @@
 - Update note 6435
 - Update note 6762
 - Update note 6130
+- Update note 2440
