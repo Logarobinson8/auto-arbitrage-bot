@@ -35,3 +35,4 @@
 # fix 6375
 # optimize 4007
 # fix 7038
+# optimize 9494
