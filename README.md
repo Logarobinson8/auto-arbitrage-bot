@@ -3,3 +3,4 @@
 - Update note 4161
 - Update note 8974
 - Update note 1329
+- Update note 8379
