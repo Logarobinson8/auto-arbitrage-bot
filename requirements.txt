@@ -45,3 +45,4 @@ aiohttp==2.2.5
 aiohttp==0.7.1
 pydantic==2.3.8
 aiohttp==0.5.3
+aiohttp==2.0.1
