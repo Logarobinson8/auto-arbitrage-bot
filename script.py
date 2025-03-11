@@ -90,3 +90,4 @@
 # fix 6186
 # fix 2081
 # refactor 9659
+# refactor 6347
